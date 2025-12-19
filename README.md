@@ -1,6 +1,4 @@
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+world!;I'm+XZY123lol+or+simply+XZY;I'm+Developer+and+Qt+desinger;I+want+to+do+something%2C+but+sometimes+it+goes+awry+%3A(;Okay%2C+this+happens+to+other+programmers+too." alt="Typing SVG" /></a>
-<h3 align="center">I want to create something, but I'm feeling lazy.</h3>
+<h3 align="center">hi o!</h3>
 
 <div align="center">
 <h3 align="center">
