@@ -45,6 +45,6 @@
 | ------------- | ------------- |
 ---
 
-<a href="https://github.com/XZY123lol">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XZY123lol&repo=Wzuh&theme=buefy" />
+# <a href="https://github.com/XZY123lol">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XZY123lol&repo=hh&theme=buefy" />
 </a>
