@@ -2,7 +2,7 @@
 
 <div align="center">
 <h3 align="center">
-   <strong><a href="https://t.me/uQ4e">My Telegram channel</a></strong>
+   <strong><a href="https://t.me/uQ4eee">My Telegram channel</a></strong>
 </h3>
 
  
