@@ -8,38 +8,6 @@
  
  </div>
 
-<h2 align="left">Stack:</h2>
-
-
-
-<table width='100%'>
-    <td align="center" width="110" height="90">
-      <a href="#">
-         <img src="https://www.qt.io/hs-fs/hubfs/qqem_bars.gif?width=1500&height=900&name=qqem_bars.gif" width="36" height="36" alt="Qt" />
-      </a>
-      <br>Qt
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#">
-         <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
-      </a>
-      <br>Node JS
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="36" height="36" alt="npm" />
-      </a>
-      <br>Python
-    </td>
-     <td align="center" width="110" height="90"> 
-      <a href="#" >
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="github" />
-      </a>
-      <br>Github
-    </td>
-
-</table>
-
 
 | <a href="https://github.com/XZY123lol"><img align="center" src="https://github-readme-stats.vercel.app/api?username=XZY123lol&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="XZY123lol's github stats" /></a> | <a href="https://github.com/XZY123lol/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XZY123lol&layout=compact&theme=buefy&hide_border=true" /></a>
 | ------------- | ------------- |
