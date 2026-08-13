@@ -2,7 +2,8 @@
 
 <div align="center">
 <h3 align="center">
-   <strong><a href="https://codeberg.org/YANDeNDER">My profile Codeberg</a></strong>
+   <strong><a href="https://codeberg.org/YANDeNDER">My profile Codeberg(default)</a></strong>
+
 
    <strong><a href="https://t.me/uQ4eee">My Telegram channel</a></strong>
 </h3>
