@@ -1,7 +1,8 @@
-<h3 align="center">hi o!</h3>
+<h3 align="center">**Sorry i migrated to Codeberg!**</h3>
 
 <div align="center">
 <h3 align="center">
+   <strong><a href="https://codeberg.org/YANDeNDER">My profile Codeberg</a></strong>
    <strong><a href="https://t.me/uQ4eee">My Telegram channel</a></strong>
 </h3>
 
